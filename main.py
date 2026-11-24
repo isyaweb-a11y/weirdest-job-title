@@ -4,8 +4,8 @@
 The entry is a single job title, the weirdest one imaginable, that
 still sounds like a real job. A Senior Vice President of Apologising
 to Printers is a title you can picture on a business card: a person
-whose whole working life is saying sorry to machines that jam. The
-twist lands on the first read, and the title is short enough to take
+whose whole working life is saying sorry to machines that jam, and
+whose card nobody ever questions. The twist lands on the first read, and the title is short enough to take
 in at a glance.
 
 Writes the title to /output/entry.txt. Stdlib only, no network.
